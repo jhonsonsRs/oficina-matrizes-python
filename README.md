@@ -1,2 +1,2 @@
-# oficia-matrizes
+# oficina-matrizes
 Aula de matriz em python
